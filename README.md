@@ -11,12 +11,12 @@ This is a JavaFX-based skincare recommendation app that helps users identify the
 - Stylish UI using CSS themes  
 
 ## 📂 Project Structure
-SkincareApp/
-├── src/
-│ └── SkincareApp.java
-├── style-day.css
-├── style-night.css
-└── README.md
+SkincareApp
+src
+SkincareApp.java
+style-day.css
+style-night.css
+README.md
 
 ## 🛠 Technologies Used
 - Java 17+
